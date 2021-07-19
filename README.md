@@ -5,3 +5,7 @@ This tutorial is from [TheNetNinja](https://www.youtube.com/watch?v=bxmDnn7lrnk&
 - yarn init -y
 - yarn add tailwindcss
 - using `yarn build-css` to generate public/styles.css
+
+#### 5. Tailwind Config
+
+- npm tailwindcss init --full
